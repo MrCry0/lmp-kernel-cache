@@ -50,3 +50,5 @@ include cfg/usb-mass-storage.scc
 include cfg/non-x86.cfg
 
 kconf hardware imx8mp-lpddr4-evk.cfg
+
+include cfg/debug/tracer/debug-dynamic-ftrace.scc
