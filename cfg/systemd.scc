@@ -1,4 +1,2 @@
-include cfg/fs/devtmpfs.scc
-include features/cgroups/cgroups.scc
-
+# SPDX-License-Identifier: MIT
 kconf non-hardware systemd.cfg
