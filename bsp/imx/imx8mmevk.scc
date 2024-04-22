@@ -31,6 +31,7 @@ include features/leds/leds.scc
 include features/spi/spidev.scc
 
 # Miscellaneous
+include cfg/amba.scc
 include cfg/dmaengine.scc
 include features/hid/hid.scc
 include features/input/input.scc
